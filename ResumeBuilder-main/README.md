@@ -38,7 +38,7 @@ Contributions and feedback are welcome! If you'd like to contribute to the proje
 
 ## Author
 
-- @StarKnightt
+- @ArunSingh
 
 ## License
 
